@@ -88,11 +88,13 @@ Currently, I am exploring software development processes, database management, a
 
 <div align="center">
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=whozkael&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=whozkael&theme=github_dark" alt="Most Commit Languages"/>
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=whozkael&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=whozkael&hide_border=true&background=FFFFFF&ring=2F81F7&fire=2F81F7&currStreakLabel=2F81F7&sideLabels=2F81F7&currStreakNum=2563EB&sideNums=2563EB&dates=6B7280" 
+alt="GitHub Streak"
+/>
 
 </div>
 
