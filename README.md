@@ -88,7 +88,7 @@ Currently, I am exploring software development processes, database management, a
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=whozkael&theme=github" 
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=whozkael&layout=compact&langs_count=6&hide_border=true&bg_color=FFFFFF&title_color=2563EB&text_color=374151&icon_color=2563EB&card_width=500"
 alt="Most Used Languages"
 />
 
