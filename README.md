@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Ni+Komang+Ayu+Citra+Lestari;Information+Technology+Student;Beginner+Developer;Learning+Programming;Exploring+Software+Development;Growing+Every+Day" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Ni+Komang+Ayu+Citra+Lestari;Information+Technology+Student;Aspiring+Software+Developer;Learning+Programming+&+Data;Exploring+Software+Development;Growing+Every+Day" alt="Typing animation" />
   <br>
   <h3>Learning with curiosity. Building with consistency.</h3>
   <br>
@@ -19,34 +19,40 @@
 
 ---
 
-## 👩‍💻 Tentang Saya
+## 👩‍💻 About Me
 
-Saya adalah mahasiswi Teknologi Informasi Universitas Udayana yang sedang membangun dasar kemampuan di bidang programming dan software development.
+I am an Information Technology student at Udayana University who is currently building my foundation in programming and software development.
 
-Saya menikmati proses belajar teknologi, memahami bagaimana software bekerja, memecahkan masalah, dan meningkatkan kemampuan melalui latihan secara konsisten. Saya terus berusaha untuk belajar, mengeksplorasi, dan berkembang langkah demi langkah.
+I enjoy exploring how technology works, solving problems through code, and continuously improving my technical skills through hands-on practice. I have learned programming fundamentals, Object-Oriented Programming (OOP), basic algorithms, data structures, and database concepts.
+
+Currently, I am exploring software development processes, database management, and how different technologies can be applied to create useful solutions. I believe that consistent learning and experimentation are essential parts of growing as a developer.
 
 ---
 
-## 🌱 Sedang Dipelajari
+## 🌱 Currently Learning
 
-- Fundamental programming
-- Computational thinking
-- Algoritma dan problem solving
-- Struktur data dasar
-- Git dan GitHub workflow
-- Konsep software development
-- Eksplorasi teknologi baru
+- Programming fundamentals
+- Object-Oriented Programming (OOP)
+- Algorithms and problem solving
+- Basic data structures
+- Database management concepts
+- Data warehouse fundamentals
+- SQL and data handling
+- Git and GitHub workflow
+- Software development concepts
+- Exploring new technologies
 
 ---
 
 ## 🛠 Tech Stack
 
-### Programming Languages
+### Programming Languages & Concepts
 
 <p>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/OOP-Concepts-2F81F7?style=for-the-badge" alt="OOP"/>
 </p>
 
 ### Tools
@@ -66,31 +72,15 @@ Saya menikmati proses belajar teknologi, memahami bagaimana software bekerja, me
 
 ---
 
-## 🌱 Learning Journey
-
-<div align="center">
-  <pre><code>Learning fundamentals
-        ↓
-Practicing problem solving
-        ↓
-Understanding software development
-        ↓
-Building confidence
-        ↓
-Continuously improving</code></pre>
-</div>
-
-Setiap tahap belajar membawa saya pada pemahaman yang lebih baik. Saya fokus pada fondasi, praktik, dan proses berkembang secara konsisten.
-
----
-
 ## 📚 Current Focus
 
-- Memperkuat fundamental programming
-- Latihan coding secara konsisten
-- Memahami konsep teknologi dan software development
-- Belajar membuat project di masa depan
-- Meningkatkan kemampuan melalui proses belajar yang berkelanjutan
+- Strengthening programming fundamentals
+- Practicing coding consistently
+- Understanding technology and software development concepts
+- Exploring database management and data-related concepts
+- Improving problem-solving skills through continuous practice
+- Preparing to build meaningful projects in the future
+- Continuously improving my skills through learning and experimentation
 
 ---
 
@@ -98,9 +88,7 @@ Setiap tahap belajar membawa saya pada pemahaman yang lebih baik. Saya fokus pad
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=whozkael&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-
-<img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=whozkael&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=whozkael&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 <br>
 
