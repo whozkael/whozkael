@@ -92,9 +92,9 @@ Setiap tahap belajar membawa saya pada pemahaman yang lebih baik. Saya fokus pad
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=whozkael&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=whozkael&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whozkael&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=whozkael&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 <br>
 
