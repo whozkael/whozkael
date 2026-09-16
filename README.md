@@ -11,6 +11,12 @@
   </a>
 </div>
 
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=whozkael&label=Profile%20Views&color=2F81F7&style=for-the-badge" alt="Profile Views" />
+
+</div>
+
 ---
 
 ## 👩‍💻 Tentang Saya
