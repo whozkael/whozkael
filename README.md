@@ -101,11 +101,14 @@ Setiap tahap belajar membawa saya pada pemahaman yang lebih baik. Saya fokus pad
 
 ## 🐍 Contribution Snake
 
-<!--
-Set up GitHub Action to generate a snake animation for this profile.
-Example workflow can save the SVG to output/github-contribution-grid-snake.svg.
-After the file is available, uncomment the image below.
--->
+<div align="center">
+
+  <img 
+    src="https://raw.githubusercontent.com/whozkael/whozkael/gh-pages/github-contribution-grid-snake.svg" 
+    alt="GitHub Contribution Snake Animation"
+  />
+
+</div>
 
 <div align="center">
   <p>Contribution snake is being prepared for future setup.</p>
