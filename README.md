@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Ni+Komang+Ayu+Citra+Lestari;Information+Technology+Student;Aspiring+Software+Developer;Learning+Programming+&+Data;Exploring+Software+Development;Growing+Every+Day" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Ayu+Citra;Information+Technology+Student;Aspiring+Software+Developer;Learning+Programming+&+Data;Exploring+Software+Development;Growing+Every+Day" alt="Typing animation" />
   <br>
   <h3>Learning with curiosity. Building with consistency.</h3>
   <br>
