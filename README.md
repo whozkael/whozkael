@@ -91,10 +91,15 @@ Setiap tahap belajar membawa saya pada pemahaman yang lebih baik. Saya fokus pad
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=whozkael&show_icons=true&theme=transparent&hide_border=true&title_color=2F81F7&icon_color=2F81F7&text_color=E5E7EB" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whozkael&layout=compact&theme=transparent&hide_border=true&title_color=2F81F7&text_color=E5E7EB" alt="Top languages" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=whozkael&theme=dark&hide_border=true" alt="GitHub streak" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=whozkael&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whozkael&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=whozkael&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
 </div>
 
 ---
@@ -110,10 +115,6 @@ Setiap tahap belajar membawa saya pada pemahaman yang lebih baik. Saya fokus pad
 
 </div>
 
-<div align="center">
-  <p>Contribution snake is being prepared for future setup.</p>
-</div>
-
 ---
 
 ## 📫 Connect With Me
@@ -122,9 +123,15 @@ Setiap tahap belajar membawa saya pada pemahaman yang lebih baik. Saya fokus pad
   <a href="https://github.com/whozkael" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/GitHub-whozkael-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
   </a>
+  <a href="mailto:ayuucitraa.id@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<a href="https://instagram.com/ayuu.citraa">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
 </div>
 
-- Portfolio: Belum tersedia.
 
 ---
 
